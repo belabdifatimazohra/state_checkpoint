@@ -1,3 +1,11 @@
+INSTRUCTIONS from Learn GoMyCode :
+
+  - Create a project using create-react-app.
+  - Transform the App.js into a class based component
+  - Implement a state for this class containing a Person ={ fullName,bio, imgSrc, profession} and a boolean show
+  - Add a button that toggle the show state and when the state show is true the person profile appear
+  - Create a field that show the time since the component has mounted using the component life cycle (hint :use the setInterval method)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
